@@ -15,4 +15,32 @@ I would like my custom order to be saved and not change when I refresh the page
 
 
 
+## Development
+
+** To begin **
+
+The solutions makes use of create-react-app to shortcut setting up build and deploy tools.
+
+```bash
+git clone git@github.com:simondell/jl_bikes_test.git
+cd jl_bikes_test
+npm start
+```
+
+
+
+## Deployment
+
+The site has hosting on github pages, using the project pages feature. [View it here][site]
+
+During development, type the following to deploy:
+
+```bash
+npm run deploy
+```
+
+This will build and deploy the project.
+
 [jhar]: https://github.com/jujhars13/dev-test-frontend
+[site]: https://simondell.github.io/jl_bikes_test
+[crapp]:
