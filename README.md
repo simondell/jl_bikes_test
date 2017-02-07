@@ -1,0 +1,20 @@
+# Penn E. Farthing Bikes
+
+A front-end development test project. The full test instructions can be [found on github][jhar].
+
+
+
+## The User story
+
+As a user, Assuming I have access to a modern web browser (chrome) with an internet connection and I am visiting the page
+
+I would like to see a list/grid of bikes (taken from the bike data URL below)
+I would like to see a the name, an image, a description and the class for each bike
+I would like to be able to sort the bikes into a custom order based on class
+I would like my custom order to be saved and not change when I refresh the page
+
+
+
+
+
+[jhar]: https://github.com/jujhars13/dev-test-frontend
