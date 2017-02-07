@@ -15,6 +15,4 @@ I would like my custom order to be saved and not change when I refresh the page
 
 
 
-
-
 [jhar]: https://github.com/jujhars13/dev-test-frontend
