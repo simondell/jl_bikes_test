@@ -17,9 +17,7 @@ I would like my custom order to be saved and not change when I refresh the page
 
 ## Development
 
-** To begin **
-
-The solutions makes use of create-react-app to shortcut setting up build and deploy tools.
+The solution makes use of [create-react-app][crapp] to shortcut setting up build and deploy tools.
 
 ```bash
 git clone git@github.com:simondell/jl_bikes_test.git
