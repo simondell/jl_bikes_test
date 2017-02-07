@@ -26,6 +26,38 @@ npm start
 ```
 
 
+### Application design
+
+The application should fulfill two sets of criteria
+
+1. establish the brand
+2. facilitiate the user journey described above (features!)
+
+These responsibilities can be encapsulated in components.
+
+┌────────────────────────────────────┐
+│App                                        │
+│┌──────────────────────────────────┐│
+││header                                   ││
+││                                         ││
+││                                         ││
+│└──────────────────────────────────┘│
+│┌──────────────────────────────────┐│
+││Bikes                                    ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+││                                         ││
+│└──────────────────────────────────┘│
+└────────────────────────────────────┘
+
 
 ## Deployment
 
